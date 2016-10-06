@@ -1,12 +1,12 @@
-# Pre-work - Huy Dinh blog
+# Pre-work - Huy Dinh's blog
 
 **Name of your app** is a Ruby on Rails blog application.
 
 Submitted by: Dinh Phan Quoc Huy
 
-Time spent: 4 hours spent in total
+Time spent: 7 hours spent in total
 
-URL: **Insert your Heroku URL here**
+URL: http://salty-lake-41234.herokuapp.com/articles
 
 ## User Stories
 
